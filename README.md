@@ -93,7 +93,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/akashray398/roomfinder.git
+   git clone https://github.com/aksajax/Room-Finder.git
    cd roomfinder
    ```
 
