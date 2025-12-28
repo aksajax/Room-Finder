@@ -1,0 +1,10 @@
+project_id = "jpoxqwkywpxicdjwvqdq"
+
+[functions.create-admin]
+verify_jwt = false
+
+[functions.create-razorpay-order]
+verify_jwt = false
+
+[functions.verify-razorpay-payment]
+verify_jwt = false
